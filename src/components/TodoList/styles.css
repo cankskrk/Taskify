@@ -1,0 +1,6 @@
+.todos {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    flex-wrap: wrap;
+}
